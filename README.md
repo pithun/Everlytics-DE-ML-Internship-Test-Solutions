@@ -1,4 +1,4 @@
-# Everlytics Internship Application Tests 🚀
+# Overview 
 
 This repository gathers the tests I completed as part of the Everlytics internship application. It includes:
 
